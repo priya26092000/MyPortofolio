@@ -1,2 +1,2 @@
-# MyPortofolio
-About Me
+# MyPortfolio
+ About Me
